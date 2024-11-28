@@ -1,0 +1,6 @@
+[submodule "application"]
+	path = application
+	url = git@github.com:pimenvibritania/infrastructure-gcp-app.git
+[submodule "infrastructure"]
+	path = infrastructure
+	url = git@gitlab.com:pimenvibritania/sre-infra.git
